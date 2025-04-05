@@ -4,13 +4,13 @@ Welcome, students! We’re excited to have you join us on this journey through c
 
 ### Step 1: Watch the Git Video
 
-Before diving into the course materials, it’s essential to understand the basics of Git, GitLab, and GitHub. Watch the video explaining these concepts [here](https://www.youtube.com/watch?v=wpISo9TNjfU). This will provide you with the foundational knowledge needed for the course.
+Before diving into the course materials, it’s essential to understand the basics of Git, GitLab, and GitHub. Watch the video explaining these concepts [here](https://www.youtube.com/watch?v=wpISo9TNjfU). Since you're here you might as well get a baisc understanding of git and github.
 
 ### Step 2: Access the Course Syllabus
 
-You’ll find the course syllabus in EducateMe.
+For registered students, you’ll find the course syllabus in EducateMe.
 
-### Step 4: Course Schedule & Preparation
+### Step 3: Course Schedule & Preparation
 
 Each module's lecture materials, supplemental readings, and YouTube videos will open 3 days before the class date within EducateMe, and answers to assignments and knowledge checks will be posted the day of class. 
 
@@ -26,6 +26,5 @@ Best,
 
 
 The SoLa Cybersecurity Bootcamp Team
-
 
 Powered by What If Security, LLC
