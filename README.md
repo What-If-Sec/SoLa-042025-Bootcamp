@@ -1,5 +1,3 @@
-# SoLa Foundation Cybersecurity Bootcamp Powered by What If Security, LLC
-
 ## Overview
 
 Welcome to the **SoLa Foundation's Cybersecurity Bootcamp** repository, powered by **What If Security, LLC**. This is a **free** resource designed to help individuals, especially **LA residents**, improve their understanding of **cybersecurity** and **IT principles**. Whether you're a student enrolled in the bootcamp or anyone interested in learning about cybersecurity, you’ll find activities, assignments, and projects that will challenge and help you develop your skills in this rapidly growing field.
