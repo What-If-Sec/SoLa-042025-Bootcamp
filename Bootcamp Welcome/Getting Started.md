@@ -4,7 +4,7 @@ Welcome, students! We’re excited to have you join us on this journey through c
 
 ### Step 1: Watch the Git Video
 
-Before diving into the course materials, it’s essential to understand the basics of Git, GitLab, and GitHub. Watch the video explaining these concepts here. This will provide you with the foundational knowledge needed for the course.
+Before diving into the course materials, it’s essential to understand the basics of Git, GitLab, and GitHub. Watch the video explaining these concepts [here](https://www.youtube.com/watch?v=wpISo9TNjfU). This will provide you with the foundational knowledge needed for the course.
 
 ### Step 2: Access the Course Syllabus
 
