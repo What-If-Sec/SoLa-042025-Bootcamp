@@ -6,15 +6,13 @@ Welcome, students! We’re excited to have you join us on this journey through c
 
 Before diving into the course materials, it’s essential to understand the basics of Git, GitLab, and GitHub. Watch the video explaining these concepts here. This will provide you with the foundational knowledge needed for the course.
 
-### Step 2: Access the Course Curriculum
+### Step 2: Access the Course Syllabus
 
-You’ll find the course curriculum on our Github repository as well as [here](https://drive.google.com/file/d/1vvl9Sq-w04z8hqhnUR0HiCGm6jSbRrgL/view). 
+You’ll find the course syllabus in EducateMe.
 
 ### Step 4: Course Schedule & Preparation
 
-Each module's lecture materials, supplemental readings, and YouTube videos will open 3 days before the class date. 
-
-> The lecture materials, supplemental reading, and YouTube videos are currently available for Module 1 Unit 1. However assignments, knowledge checks, etc. will not be available to be completed within EducateMe till the start of class.
+Each module's lecture materials, supplemental readings, and YouTube videos will open 3 days before the class date within EducateMe, and answers to assignments and knowledge checks will be posted the day of class. 
 
 ### Stay On Track
 
