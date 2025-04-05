@@ -41,7 +41,7 @@ While this bootcamp is specifically geared towards **LA residents**, anyone inte
 
 ## Licensing and Usage
 
-This repository and all associated content are provided as a free resource. However, any attempt to modify, redistribute, or commercialize the materials without proper permission is prohibited. For full licensing details, please see the [LICENSE](LICENSE) file in this repository.
+This repository and all associated content are provided as a free resource. However, any attempt to modify, redistribute, or commercialize the materials without proper permission is prohibited. For full licensing details, please see the [LICENSE](https://github.com/What-If-Sec/SoLa-042025-Bootcamp/blob/main/LICENSE.md) file in this repository.
 
 ## Conclusion
 
