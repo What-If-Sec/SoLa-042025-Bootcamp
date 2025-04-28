@@ -18,6 +18,7 @@ Coffee Maker Spoofing Threat Security Mitigations
 <details closed>
 <summary>Answer Key</summary>
 Technical security controls would be best for mitigating against the spoofing threat; for example the machine maunfactuer should implement PKI certificates for mutual authentication and the TLS 1.3 protocol for sending data, while the defense contractor could put the machine in a dedeciated VLAN or subnet for IoT devices.
+  
 </details>
 
 Coffee Maker Tampering Threat Security Mitigations
