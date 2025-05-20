@@ -7,7 +7,7 @@ By completing this activity, students will:
 3. Create a personalized reference they can use throughout their studies.
 
 ## Activity Instructions
-For this activity download the script located here to your VM. Afterwards open your terminal and run the following commands: <code> chmod +x ~/Downloads/4.2.4-ActivitySetupScript.sh && bash ~/Downloads/4.2.4-ActivitySetupScript.sh</code>. Once activity setup is done, complete the tasks below:
+Complete the tasks below:
 1. Log into your Ubuntu VM and open the terminal.
 2. Change to your Documents directory.
 3. Use the nano command to create a file named bash_command_cheat_sheet.txt
