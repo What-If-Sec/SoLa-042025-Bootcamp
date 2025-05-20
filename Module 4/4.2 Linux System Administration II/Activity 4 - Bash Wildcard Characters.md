@@ -13,7 +13,7 @@ Once activity setup is completed, do the following:
 1. Use the find command to locate the directory to start this activity. The output from the setup script will provide you with a hint.
 <details closed>
 <summary>Answer Key</summary>
-Command: <code>find /var -type d -name "*4.2.4"</code><br>
+Command: <code>find ~ -type d -name "*4.2.4"</code><br>
 Directory: <code>/home/your-user-account/Activity-4.2.4/YouFoundMe/Now/Lets/Go/Deeper/Wildcard-Practice</code>
 </details>
 
