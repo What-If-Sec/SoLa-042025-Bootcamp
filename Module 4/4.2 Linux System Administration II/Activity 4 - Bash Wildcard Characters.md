@@ -7,7 +7,7 @@ By completing this activity, students will:
 3. Gain confidence in managing files and directories within an Ubuntu VM using the command line.
 
 ## Activity Instructions
-For this activity download the script located [here](https://drive.google.com/file/d/1NYrMJ3Fa-o72Lisimz1UXWrQj6VgHJpY/view) to your VM. Afterwards open your terminal and run the following commands: ```sudo apt install pandoc -y && chmod u+x ~/Downloads/4.2.4-ActivitySetupScript.sh && bash ~/Downloads/4.2.4-ActivitySetupScript.sh```
+For this activity download the script located [here](https://drive.google.com/file/d/1sJGYVEdvXb84SVB9cLeNz0mtpWP45mB-/view?usp=drive_link) to your VM. Afterwards open your terminal and run the following commands: ```sudo apt install pandoc -y && chmod u+x ~/Downloads/4.2.4-ActivitySetupScript.sh && bash ~/Downloads/4.2.4-ActivitySetupScript.sh```
 
 Once activity setup is completed, do the following:
 1. Use the find command to locate the directory to start this activity. The output from the setup script will provide you with a hint.
