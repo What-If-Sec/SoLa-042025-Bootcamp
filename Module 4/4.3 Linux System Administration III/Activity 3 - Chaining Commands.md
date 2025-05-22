@@ -91,7 +91,7 @@ What will be the output if the directory test_dir does not exist?
     4. rm: cannot remove 'test_file.txt': No such file or directory
 <details closed>
 <summary>Answer Key</summary>
-  The contents of the user's documents directory.
+ File deleted
 </details>
 
 8. ```mkdir my_folder && echo "Created my_folder" || echo "Failed to create my_folder"; echo "Done"```
