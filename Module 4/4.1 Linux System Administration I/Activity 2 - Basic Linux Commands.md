@@ -21,8 +21,8 @@ Once you have executed the bash script above to complete setting up your enironm
 </details>
 
 2. On your desktop create a directory named "Organized-Files" using the mkdir command.
+<details closed>
 <summary>Answer Key</summary>
-<details>
 mkdir ~/Desktop/Organized-Files 
 </details>
   
