@@ -18,12 +18,14 @@ Once you have executed the bash script above to complete setting up your enironm
 <details closed>
 <summary>Answer Key</summary>
 <code>mv filepath/file_name filepath/directory_name</code>
+<br>Example:
+<code>mv ~/Desktop/November_memos.txt ~/Dekstop/November-Files</code>
 </details>
 
 2. On your desktop create a directory named "Organized-Files" using the mkdir command.
 <details closed>
 <summary>Answer Key</summary>
-mkdir ~/Desktop/Organized-Files 
+<code>mkdir ~/Desktop/Organized-Files </code>
 </details>
   
 3. Move the directories on your desktop i.e. January_Files, March_Files, etc. to the "Organized-Files" directory you created 
@@ -48,9 +50,9 @@ mkdir ~/Desktop/Organized-Files
 6. Within your terminal, change to the November_Files directory located within the Organized-Files directory that you previously copied to your Documents directory, and rename the "November_class-notes.txt" file to "112025_class-notes.txt", "November_personal-notes.txt" file to "112025_personal-notes.txt", and "November_memos.txt" file to "112025_memos.txt".
 <details closed>
 <summary>Answer Key</summary>
-mv ~/Desktop/Organized-Files/November-Files/November_class-notes.txt ~/Desktop/Organized-Files/November-Files/112025_class-notes.txt
-mv ~/Desktop/Organized-Files/November-Files/November_personal-notes.txt ~/Desktop/Organized-Files/November-Files/112025_personal-notes.txt
+<code>
+mv ~/Desktop/Organized-Files/November-Files/November_class-notes.txt ~/Desktop/Organized-Files/November-Files/112025_class-notes.txt</code><code>
+mv ~/Desktop/Organized-Files/November-Files/November_personal-notes.txt ~/Desktop/Organized-Files/November-Files/112025_personal-notes.txt</code><code>
 mv ~/Desktop/Organized-Files/November-Files/November_memos.txt" ~/Desktop/Organized-Files/November-Files/112025_memos.txt
+</code>
 </details>
-
-
