@@ -17,7 +17,7 @@ Once you have executed the bash script above to complete setting up your enironm
 1. Move the files into their appropriate directory based off of the date in the files name ( i.e. files labeled August should go in the August directory) using the mv command.
 <details closed>
 <summary>Answer Key</summary>
-<code>mv filepath/<file_name> filepath/<directory_name></code>
+<code>mv filepath/file_name filepath/directory_name</code>
 </details>
 
 2. On your desktop create a directory named "Organized-Files" using the mkdir command.
