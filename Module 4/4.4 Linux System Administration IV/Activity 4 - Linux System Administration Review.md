@@ -151,12 +151,12 @@ Search for patterns in text files
 
 14. Which command displays the content of a file one page at a time?
     1.	cat
-    2.	less
+    2.	more
     3.	head
     4.	tail
 <details closed>
 <summary>Answer Key</summary>
-<code>sed 's/Linux/UNIX/g' notes.txt</code>
+<code>more</code>
 </details>
 
 15. Which command displays the content of a file one page at a time?
