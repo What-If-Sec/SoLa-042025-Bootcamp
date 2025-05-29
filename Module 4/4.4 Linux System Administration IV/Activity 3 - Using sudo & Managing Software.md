@@ -19,7 +19,7 @@ In the activity you will do the following to understand the proper process when 
 4. List the software packages installed on your VM using ```apt list --installed```.
 5. Update the package list on your VM by running ```sudo apt update```.
 6. Remove outdated package files that can no longer be downloaded to free up your diskspace by using ```sudo apt autoclean```.
-7. View the software packages that can be upgraded on your VM using ```apt --list upgradeable```.
+7. View the software packages that can be upgraded on your VM using ```apt list --upgradeable```.
 8. Upgrade the packages on your VM by running ```sudo apt full-upgrade```.
 9. Install the following software: auditd, net-tools, nmap, zenmap, john, and wireshark to your VM using ```sudo apt install <package_name>```.
 <details closed>
