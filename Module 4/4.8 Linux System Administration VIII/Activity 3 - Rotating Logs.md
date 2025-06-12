@@ -80,7 +80,7 @@ Students will learn to effectively manage system logs using the ```logrotate```Â
     compress
     delaycompress
     nocompress
-    create 0644 root root
+    create 644 root root
 }</code></pre>
             </li>
             <li>For <code>/var/log/cron.log</code>, create or edit the file <code>/etc/logrotate.d/cron</code> with the following configuration:
@@ -90,7 +90,7 @@ Students will learn to effectively manage system logs using the ```logrotate```Â
     compress
     delaycompress
     nocompress
-    create 0644 root root
+    create 644 root root
 }</code></pre>
             </li>
             <li>For <code>/var/log/boot.log</code>, create or edit the file <code>/etc/logrotate.d/boot</code> with the following configuration:
@@ -100,7 +100,7 @@ Students will learn to effectively manage system logs using the ```logrotate```Â
     compress
     delaycompress
     nocompress
-    create 0644 root root
+    create 644 root root
 }</code></pre>
             </li>
         </ul>
