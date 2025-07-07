@@ -13,8 +13,8 @@ Follow the instructions below:
 7. Go to VS Code and select "Initialize Repository" to create a new Git local repository on your VM, allowing you to start tracking code changes. 
 > Note: This is the equivalent of going to your VM's terminal and navigating to ~/Documents/GitHub/ and then executing `git init`.
 8. Go  to the integrated terminal within VS Code and confirm that your current location is your local repo.
-9. Create a README.md file using `touch`.
-10. Open the README.md file in VS Code by going to the Source Control menu and under the changes dropdown menu selecting the README.md file.
+9. Create a file named "README.md" using `touch`.
+10. Open the README.md file in VS Code by going to the Source Control menu located within the "changes" dropdown menu and select the README.md file you just created.
 11. In the README file, include the following sections: Project Title, Author Name, Date Created, Portfolio Overview, Technologies Used, and a list of the projects that will be included. A template README.md file can be found [here](https://github.com/othneildrew/Best-README-Template/blob/main/README.md), and an example of a README file that is used for a bash script can be found [here](https://github.com/nisiddharth/Christmas-Bash-Script).
 12. Save the file and return to the integrated terminal in VS Code.
 13. Run `git add README.md` to stage the file.
