@@ -46,7 +46,7 @@ To create a variable that only exists inside the function.
     4.	The first and second command-line arguments passed to the script
 <details closed>
 <summary>Answer Key</summary>
-The first and second command-line arguments passed to the script.
+The first and second command-line arguments passed to the function
 </details>
 
 5.	What is the purpose of a function in Bash?
@@ -69,7 +69,7 @@ To repeat a set of commands without writing them multiple times
 By writing the function’s name followed by any arguments in the script.
 </details>
 
-7.	What will happen if you call greet_user without passing any arguments?
+7.	What will happen if you call greet_user script without passing any arguments?
     1.	It will continue without greeting the user
     2.	The script will display an error message and stop.
     3.	It will prompt the user to enter values for the arguments.
