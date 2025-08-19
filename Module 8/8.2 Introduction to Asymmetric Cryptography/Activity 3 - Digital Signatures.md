@@ -18,10 +18,10 @@ Follow the instructions below:
 <details closed> <summary>Answer</summary> <p>Choose two classmates who have already posted their public key files in the live channel (Slack, Discord, etc.).</p> <p>Then create one personalized message for each of them and include your name.</p> <code> echo "Hey [Student1], keep up the great work! - Your Name" > message_to_student1.txt echo "Hi [Student2], you're doing awesome! - Your Name" > message_to_student2.txt </code> </details>
 
 3. Create a digital signature for each of the plaintext files you created.
-<details closed> <summary>Answer</summary> <p>This command will generate a <code>.sig</code> file that can be used to verify the integrity and authenticity of the message file.</p> <code> gpg --detach-sign message_to_student1.txt gpg --detach-sign message_to_student2.txt </code> </details>
+<details closed> <summary>Answer</summary> <p>This command will generate a <code>.sig</code> file that can be used to verify the integrity and authenticity of the message file.</p> <code> gpg --detach-sign message_to_student1.txt && gpg --detach-sign message_to_student2.txt </code> </details>
 
 4. Encrypt each file using GPG, and DM the encrypted message (.enc) and digital signature (.sig)  files to the appropriate recipient via Slack, Discord, etc.
-<details closed> <summary>Answer</summary> <p>Encrypt each message using the corresponding student’s public key.</p> <code> gpg --output message_to_student1.txt.enc --encrypt -r student1_email@example.com message_to_student1.txt gpg --output message_to_student2.txt.enc --encrypt -r student2_email@example.com message_to_student2.txt </code> </details>
+<details closed> <summary>Answer</summary> <p>Encrypt each message using the corresponding student’s public key.</p> <code> gpg --output message_to_student1.txt.enc --encrypt -r student1_email@example.com message_to_student1.txt && gpg --output message_to_student2.txt.enc --encrypt -r student2_email@example.com message_to_student2.txt </code> </details>
 
 5. When you receive an encrypted message along with the digital signature, begin by importing the student's public key (posted to the live channel from the previous activity) to your keyring and then decrypt their message.
 <details closed> <summary>Answer</summary> <p>Import your peers public key using:</p> <code> gpg --import classmate_public_key.gpg </code> <br> <p>Use your private key to decrypt the message file you received.</p> <code> gpg --output decrypted_message.txt --decrypt received_message.enc </code>  </details>
