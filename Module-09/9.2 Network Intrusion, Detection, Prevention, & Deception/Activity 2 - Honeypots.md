@@ -20,7 +20,7 @@ While the attacker interacts with these decoys, the honeypot records the source 
 9. Run `sudo ./masscanned --iface enp0s3 --self-ip-file ips.txt -v > honeypot.log` to start the responder on your network interface and make it answer for the decoy addresses listed in ips.txt. Replace "enp0s3" with your real interface name. The "-v" option increases log detail and the output is written to honeypot.log for later review.
 10. Simulating the attacker from the scenario, on your Red Team VM, run `ip a` to confirm you are on the same local network as the honeypot and to note your IPv4 address, the prefix for example slash twenty four, and the default gateway.
 11. On your Red Team VM, run an initial discovery scan with Nmap using the subnet you noted in step 10, for example `sudo nmap -sn 192.168.50.0/24`; replace the example with your actual subnet.
-12. On your Red Team VM, using one of the identified IP addresses perform a Nmap stealth syn scan using `sudo nmap -sV -T4 -F 192.168.50.220`, replacing the example with an address used by your honeypot.
+12. On your Red Team VM, using one of the identified IP addresses perform a Nmap stealth syn scan using `sudo nmap -sS -T4 -F 192.168.50.220`, replacing the example with an address used by your honeypot.
 13. After the Nmap scan completes, stop Masscanned using `ctrl-c` in your terminals, then view the log with `more honeypot.log`.
 14. Analyze the log to see which decoy IPs were probed and which protocols responded, then record your findings and complete the knowledge check.
 
