@@ -24,7 +24,7 @@ This repository is a **publicly accessible** space for students, professionals, 
 - **Practice** their skills through real-world activities and challenges.
 - **Explore** educational resources like projects and quizzes designed to reinforce practical knowledge.
 
-While this bootcamp is specifically geared towards **LA residents**, anyone interested in improving their cybersecurity skills can freely explore the resources in this repository.
+While this bootcamp is designed to be led by an instructor, anyone interested in improving their cybersecurity skills can freely explore the resources in this repository.
 
 ## Resources Available
 
