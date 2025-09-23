@@ -61,7 +61,7 @@ Instead of an error, the browser displays a list of recent HTTP requests to the 
     4. To hide payloads
 <details closed> <summary>Answer</summary><p>Directory traversal can reveal sensitive configuration files, API keys, or password hashes. Attackers can then use this data in further attacks (e.g., privilege escalation or lateral movement).</p></details>
 
-8. Which of the following best prevents directory traversal attacks?
+8. Which of the following best practices prevents directory traversal attacks?
     1. Running antivirus on the server
     2. Validating and restricting user input to expected filenames
     3. Using SQL parameterized queries
