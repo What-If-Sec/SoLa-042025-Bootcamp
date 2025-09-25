@@ -9,7 +9,7 @@ Students will use recon-ng to find publicly available information that could be 
 2. Search the marketplace for the modules you will be using within this activity using marketplace search recon.
 3. Get information about the hackertarget module using `marketplace info hackertarget`.
 4. If you had to install recon-ng, you have "no modules enabled/installed", or the hackertarget is not installed, run `marketplace install hackertarget` to install the module to recon-ng.
-5. Start by creating a new workspace to organize your project workspaces `create <workspace_name>`.
+5. Start by creating a new workspace to organize your project `workspaces create <workspace_name>`.
 6. List the modules available to you using `modules search`.
 7. Load the bing_domain_api module using `modules load <module_name>`.
 8. View the options you can set for the bing_domain_api using `options list`.
