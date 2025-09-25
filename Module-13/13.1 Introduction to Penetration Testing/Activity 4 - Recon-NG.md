@@ -13,7 +13,7 @@ Students will use recon-ng to find publicly available information that could be 
 6. List the modules available to you (i.e installed locally) using `modules search`.
 7. Load the module using `modules load <module_name>`.
 8. View the options you can set for the module using `options list`.
-9. Set thesolafoundation.org as your target using `options set SOURCE <target_domain>`.
+9. Set a website or URL you have permission to scan as your target using `options set SOURCE <target_domain>`.
 10. Run the hacker_target module, using `run`.
 11. Print the contents of the workspace hosts table i.e. every host the workspace has collected by executing `show hosts`.
 12. Create a csv report by installing, loading, and/or running the "reporting/csv" module.
