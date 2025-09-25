@@ -13,6 +13,7 @@ Students will use recon-ng to find publicly available information that could be 
 6. List the modules available to you using `modules search` and then load the module using `modules load <insert module name>`.
 8. View the options you can set for the module using `options list`.
 9. Set thesolafoundation.org as your target using `options set SOURCE <target_domain>`.
-10. Run the hacker_target module, using run.List the domain host found using hacker_target by running `show hosts`.
-11. Create a csv report by installing, loading, and/or running the "reporting/csv" module.
+10. Run the hacker_target module, using `run`.
+11. List the domain host found using hacker_target by running `show hosts`.
+12. Create a csv report by installing, loading, and/or running the "reporting/csv" module.
 
